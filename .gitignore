@@ -3,3 +3,9 @@ Nellore/.classpath
 Nellore/.project
 Nellore/.settings/org.eclipse.core.resources.prefs
 Nellore/.settings/org.eclipse.jdt.core.prefs
+JavaBasicConcepts/.project
+JavaBasicConcepts/bin/com/java/pack1/BreakExample.class
+*.class
+JavaBasicConcepts/.classpath
+JavaBasicConcepts/.settings/org.eclipse.core.resources.prefs
+JavaBasicConcepts/.settings/org.eclipse.jdt.core.prefs
