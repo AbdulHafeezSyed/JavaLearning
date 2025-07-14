@@ -1,4 +1,4 @@
-package com.nlr.java;
+package com.java.practice;
 
 public class loopsExp3 {
 
