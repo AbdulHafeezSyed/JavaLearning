@@ -23,6 +23,7 @@ public class Addition {
 	}
 	public static String add(String x,int y) {
 		String z=x+y;
+		System.out.println("check");
 		return z;
 		
 	}
