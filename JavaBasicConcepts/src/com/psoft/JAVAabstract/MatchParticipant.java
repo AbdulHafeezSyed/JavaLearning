@@ -9,5 +9,10 @@ public abstract class MatchParticipant {
 	}
 
 	abstract void performRole();
+	 void performRole1()
+	{
+		
+	}
+	
 
 }

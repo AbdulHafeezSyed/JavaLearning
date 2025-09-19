@@ -1,7 +1,8 @@
 package com.java.methods;
-
+//Method overloading
+//---------------------------
 public class AreaCalculator {
-	public int calculateArea(int x) {
+	public int    calculateArea(int x) {
 		System.out.println("Area of Square:" + x * x);
 		return 0;
 
@@ -31,6 +32,7 @@ public class AreaCalculator {
 		area.calculateArea(6, 8);
 		area.calculateArea(4);
 		area.calculateArea(5, 6);
+		Student student3=new Student("virat",15,9);
 	}
 
 }

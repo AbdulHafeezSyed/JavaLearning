@@ -4,7 +4,7 @@ public class StudentDetails {
 	String Name;
 	int age;
 	String study;
-    String school;
+    String school; 
     int rollNumber;
     //constructor
     public StudentDetails(String x,int y,String z,String a,int r) {
@@ -16,11 +16,6 @@ public class StudentDetails {
     	System.out.println("Name:"+Name+"\nAge:"+age+"\nClass:"+study+"\nSchool:"+school+"\nRollNumber:"+rollNumber);
 		 
 	}
-
-	public StudentDetails() {
-		// TODO Auto-generated constructor stub
-	}
-
 	public static void main(String[] args) {
 		System.out.println("STUDENTS DETAILS");
 		System.out.println("-------------------------------");

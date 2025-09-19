@@ -19,7 +19,7 @@ public class TemperatureConverts {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		TemperatureConverts t = new TemperatureConverts();
+		//TemperatureConverts t = new TemperatureConverts();
 		/*
 		 * t.celsiusToFahrenheit(20); t.FahrenheitToCelsius(50);
 		 */

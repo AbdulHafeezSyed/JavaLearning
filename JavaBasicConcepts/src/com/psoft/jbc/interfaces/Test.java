@@ -5,8 +5,9 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Bike bike=new Bike("suzukiAccess");
-		bike.calculateRentalCost(8);
-		bike.displayDetails();
+	    bike.calculateRentalCost(8);
+    	bike.displayDetails();
+	//	Controllable c= new Controllable();//can't create an object to interface
 
 	}
 

@@ -5,13 +5,14 @@ public class Person {
 	int age;
 
 	public Person(String name, int age) {
-		super();
+		//super();
 		this.name = name;
 		this.age = age;
 	}
 
 	public void displayDetails() {
-		System.out.println("Name: " + name + "\nAge: " + age);
+		System.out.println("parent "+"Name: " + name + "\nAge: " + age);
 
 	}
+	
 }
